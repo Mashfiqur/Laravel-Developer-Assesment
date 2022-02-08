@@ -28,7 +28,7 @@ Codebase should be in a git based repository (Github, Bitbucket, Gitlab etc.).
 
 ### Submission
 
-Write an email to `mashfiqur@shapla.io` and cc `tasnim@shapla.io` with your deliverables and request for a code review. Mention
+Write an email to `tasnim@shapla.io` and cc `mashfiqur@shapla.io` with your deliverables and request for a code review. Mention
 that you were asked to complete this and seek information about the next step for you.
 
 ## Helper
